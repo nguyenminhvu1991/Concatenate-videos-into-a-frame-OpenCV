@@ -1,6 +1,3 @@
-#Reference:
-#http://answers.opencv.org/question/200077/combine-several-videos-in-the-same-window-python/
-
 import numpy as np
 import cv2
 
